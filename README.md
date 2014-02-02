@@ -1,4 +1,4 @@
-<img src="http://www.vitorbritto.com.br/magneto/logo.jpg" alt="Magneto" align="center" height="223">
+![Magneto Logo](logo-magneto.jpg "Magneto")
 
 <br>
 
