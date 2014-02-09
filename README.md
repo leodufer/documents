@@ -21,3 +21,4 @@ Seguindo esta linha de pensamento, a intenção deste repositório é muito simp
 - [Jasmine](https://github.com/eoop/jasmine-br-docs) - Tradução da documentação do Jasmine.
 - [Art of Node](https://github.com/vitorbritto/art-of-node/blob/master/readme.pt-br.md) - Tradução do Guia "Art of Node", por Max Ogden.
 - [GruntJS Docs](https://github.com/gruntbrasil/grunt-docs) - Tradução da documentação do Grunt.
+- [Making Games with Python and Pygame](https://github.com/IuryAlves/pygame-book-translation) - Tradução do livro "Making Games with Python and Pygame"
