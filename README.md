@@ -1,7 +1,3 @@
-![Magneto Logo](logo-magneto.jpg "Magneto")
-
-<br>
-
 ## Bem vindo
 Sabemos da importância quanto ao conhecimento da língua inglesa na área de Desenvolvimento Web, TI e adjacências. Muitos materiais para estudos, sejam artigos, guias, livros e outros documentos, são encontrados com maior facilidade em inglês. Quando traduzidos, alguns termos e sentenças perdem o sentido e/ou sofrem alterações que prejudicam no entendimento correto do conteúdo. Isso, pode levar a um retrocesso no conhecimento e estagnar o seu avanço, pois aprendendo de maneira equivocada, você, provavelmente, precisará repetir o procedimento para que aprenda da forma correta em seguida. Os documentos _free_ ou _open-source_ contam com a contribuição da comunidade, onde desenvolvedores colaboram com as revisões dos mesmos frequentemente.
 
